@@ -1,0 +1,23 @@
+{
+    box-sizing:border-box;
+    margin:0;
+}
+
+.Main-Text{
+    font-size: 30px;
+    background-position: center;
+    display: inline-block;
+    margin: auto;
+    color: white;
+    position: relative;
+    left:300px;
+    top: 100px;
+}
+
+.First-BOX{
+    background-color: red;
+    background-image: url(https://roma.corriere.it/methode_image/2020/03/08/Roma/Foto%20Roma%20-%20Trattate/AFP_1PP3MG-k13F-U31701061640330fw-656x492@Corriere-Web-Roma.jpg);
+    width: 500px;
+    height: 500px;
+    position: absolute;
+}
